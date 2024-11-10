@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ivandezad&label=Profile%20views&color=0e75b6&style=flat" alt="ivandezad" /> </p>
 
-- 🔭 I’m currently working on **University Projects and rootkit development (learning progress)**
+- 🔭 I’m currently working on **University Projects and rootkit development (learning progress), actively working on a low level keylogger operating on kernel space**
 
 - 🌱 I’m currently learning **anything related with low level programming (kernel space)**
 
