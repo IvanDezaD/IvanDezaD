@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ivandezad&label=Profile%20views&color=0e75b6&style=flat" alt="ivandezad" /> </p>
 
-- 🔭 I’m currently working on **University Projects**
+- 🔭 I’m currently working on **University Projects and rootkit development (learning progress)**
 
-- 🌱 I’m currently learning **Anything related with low level programming (kernel space)**
+- 🌱 I’m currently learning **anything related with low level programming (kernel space)**
 
-- 🤝 I’m looking for help with **Anything related with cybersecurity (mainly kernel dev)**
+- 🤝 I’m looking for help with **anything related with cybersecurity (mainly kernel dev)**
 
 - 📫 How to reach me **ivandezad@gmail.com**
 
