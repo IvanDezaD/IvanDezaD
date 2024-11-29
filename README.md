@@ -1,5 +1,7 @@
 <!--h1 align="center">Hi 👋, I'm Ivan Deza</h1-->
-<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=8A83E4&width=435&lines=Hello+I'm+Ivan+Deza++%F0%9F%98%80" alt="Typing SVG" /></a>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=8A83E4&width=435&lines=Hello+I'm+Ivan+Deza++%F0%9F%98%80" alt="Typing SVG" /></a>
+<\h1>
 <h3 align="center">A cybersecurity enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ivandezad&label=Profile%20views&color=0e75b6&style=flat" alt="ivandezad" /> </p>
